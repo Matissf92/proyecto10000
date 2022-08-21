@@ -1,20 +1,20 @@
 const randomGenerator = () => {
-  //   const resultado1 = random(1, 6);
-  //   const resultado2 = random(1, 6);
-  //   const resultado3 = random(1, 6);
-  //   const resultado4 = random(1, 6);
-  //   const resultado5 = random(1, 6);
-  //   const resultado6 = random(1, 6);
+  const resultado1 = random(1, 6);
+  const resultado2 = random(1, 6);
+  const resultado3 = random(1, 6);
+  const resultado4 = random(1, 6);
+  const resultado5 = random(1, 6);
+  const resultado6 = random(1, 6);
 
-  let dados = [1, 1, 3, 6, 6, 6]; //para hacer testeos
-  //   let dados = [
-  //     resultado1,
-  //     resultado2,
-  //     resultado3,
-  //     resultado4,
-  //     resultado5,
-  //     resultado6,
-  //   ];
+  //   let dados = [1, 1, 3, 6, 6, 6]; //para hacer testeos
+  let dados = [
+    resultado1,
+    resultado2,
+    resultado3,
+    resultado4,
+    resultado5,
+    resultado6,
+  ];
 
   let arrayUnos = [];
   let arrayCincos = [];
